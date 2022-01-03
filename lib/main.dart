@@ -31,6 +31,7 @@ class MyHomePage extends StatelessWidget {
     final Controller c = Get.put(
       Controller(),
     );
+
     print('object');
     return Scaffold(
       appBar: AppBar(
